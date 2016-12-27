@@ -1,0 +1,20 @@
+{
+	"name": "middle4WHAT",
+	"version": "0.1.2",
+	"private": true,
+	"engines": {
+		"node": ">=7.0",
+  		"npm": ">=4.0"
+	},
+	"repository": {},
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"express": ">=4.14"
+		, "body-parser": ">=1.10"
+		, "cors": ">=2.8"
+		, "cfenv": "1.0.x"
+
+	}
+}
