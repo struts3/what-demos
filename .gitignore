@@ -1,16 +1,19 @@
 
-######################
+###################### 
 .DS_Store
 .DS_Store?
 ._*
-.Spotlight-V100
-.Trashes
 Thumbs.db
-*.log
-Icon
+Icon?
+Icon\r
 .dropbox
-**/node_modules/**
-**/.idea/**
-
 .vscode/
-.idea/
+*.config
+
+
+###################### Other
+.project
+.cfignore
+
+*.log
+**/node_modules/**
