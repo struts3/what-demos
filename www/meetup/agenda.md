@@ -1,4 +1,4 @@
-### What will be Best Practice in Summer of '17
+### What will be Best Practice next year?
 #### Microservices
 - Express & deployment
 - Front route
@@ -26,5 +26,5 @@
 - Mobile development 
 - Learn: <http://tinyurl.com/z9myzjg>
 - 9 inspirations <https://www.masons-foundation.org/post/asites/>
-
+- <https://github.com/struts3/what-demos>
 #### Forum: http://gitter.im/what-best-practice/Lobby
