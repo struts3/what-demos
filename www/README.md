@@ -1,6 +1,5 @@
 (To find out more about what this project is for: <http://github.com/cekvenich/what> )
 
-# Murder
 ## Best Practices 'Architecture from scratch'
 
 This is a 'starter architecture' for advanced / creator level.
