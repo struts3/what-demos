@@ -1,5 +1,21 @@
 # what-demos
-Examples that show basic functionality in 'WHAT':
+
+'WHAT' features:
+- Page Transitions for SPA w/ SEO
+- Static, serverless fetching(/using) microservices
+- DOM centric to be more friendly with team that includes interactive designers that code
+
+Some of the tools we use:
+- <http://github.github.io/fetch>
+- <http://smoothstate.com>
+- <http://muicss.com>
+- <http://site44.com>
+- <http://prepros.io>
+- <http://pugjs.org>
+- <http://www.polymer-project.org>
+- <http://greensock.com/gsap>
+
+Examples/Resources that show basic functionality in 'WHAT'
 
 Hello world example source: <https://github.com/struts3/what>
 
