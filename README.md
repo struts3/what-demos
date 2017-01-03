@@ -2,7 +2,7 @@
 
 'WHAT' features:
 - Page Transitions for SPA w/ SEO
-- Static, serverless fetching(/using) microservices
+- Static, serverless, deployed to CDN; fetching(/using) microservices
 - DOM centric to be more friendly with team that includes interactive designers that code
 
 Some of the tools we use:
@@ -14,6 +14,7 @@ Some of the tools we use:
 - <http://pugjs.org>
 - <http://www.polymer-project.org>
 - <http://greensock.com/gsap>
+- <http://getbem.com/naming/>
 
 Examples/Resources that show basic functionality in 'WHAT'
 
