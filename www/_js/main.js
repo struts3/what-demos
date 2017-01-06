@@ -21,7 +21,6 @@ loadjs([
 		_act.dispatch(_LOADED, window.location)
 
 		startApp()
-		loadAnalytics()
 	}, async: false
 })
 
@@ -82,6 +81,3 @@ function startApp(){
 }//startApp()
 
 //====================================================================
-function loadAnalytics(){
-
-}
