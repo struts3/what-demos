@@ -14,8 +14,8 @@ Some of the tools we use:
 - <http://prepros.io>
 - <http://pugjs.org>
 - <http://www.polymer-project.org>
+- <http://github.com/corinis/jsForm>
 - <http://greensock.com/gsap>
-- <http://listjs.com>
 
 Examples/Resources that show basic functionality in 'WHAT'
 

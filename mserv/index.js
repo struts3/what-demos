@@ -8,8 +8,8 @@ middle.use(cors())
 // ###################### 
 
 //routes ###################### 
-const homePg = require('./front_routes/homePg')
-const membersPg = require('./front_routes/membersPg')
+const homePg = require('./back/homePg')
+const membersPg = require('./back/membersPg')
 
 middle.use('/membersPg', membersPg) //front route 1 - match the front end
 
