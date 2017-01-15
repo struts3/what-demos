@@ -5,6 +5,8 @@
 - Static, serverless, deployed to CDN; fetching(/using) microservices
 - DOM centric to be more friendly with team that includes interactive designers that code
 
+For discussion, comments and Q/A: <https://gitter.im/what-community/Lobby>
+
 Some of the tools we use:
 - <http://github.github.io/fetch>
 - <http://smoothstate.com>
@@ -36,7 +38,11 @@ Other sites using 'WHAT':
 - <http://www.rfidthings.com/>
 
 Advanced examples are also available once you learn how to use the basics.
-For discussion, comments and Q/A: <https://gitter.im/what-community/Lobby>
 
 Also, from time to time, usually one a month, we hold online training and an announcement will be posted in-there, so please join in any case. 
+Consulting is available, leave a message on the gitter forum.
 Ex feedback: <https://www.meetup.com/HackerDojo/events/235472685/>
+
+
+Other related links:
+- Pug Book <http://tinyurl.com/jrndabw>
